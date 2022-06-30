@@ -1,17 +1,9 @@
-## Laravel Developer
+# Laravel Developer
 
-![](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/42494619_373504826522725_338771863368892416_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHxXoG7dZmQ-7DkKKrV6TCNeK41RWMarAZ4rjVFYxqsBrbmojwSmZyyfqdps_OSUK8Xo8MXNFj9lK-h8kZq5Lru&_nc_ohc=ek81NVYoVVEAX-RvMxz&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8l2vLFCtTYjYjOMQysjInDXuy_vdnd58zhUvQlpZ0VCg&oe=62E27AA3)
-
-
-
-
-
-
-
-
+![](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/70306923_1417017471806289_8673627694824423424_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=84a396&_nc_eui2=AeET8oCGdvJZMlaJmnvg21g6elWNsDuT8016VY2wO5PzTXeHcqKBIk5YluzfoP3bQs1yYzNK7vwjcuDMQD4wm0Rm&_nc_ohc=cU2C4C13fUwAX-LJYqm&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-dw87s9BMhkUhIHincnfPbvomi59ddzslEpWX8_5KR5Q&oe=62E34706)
 
 ### Hi there 👋, I'm Asraf Mridha
-#### Laravel Devoloper
+#### Laravel Developer
 
 
 I am a student of Laravel Developer. I enjoy working backend with Laravel. And I want to continue working with Laravel
