@@ -1,10 +1,9 @@
 <!-- 🔥 Banner -->
 
-![Profile Banner](https://raw.githubusercontent.com/asrafmridha/asrafmridha/main/banner.png](https://raw.githubusercontent.com/asrafmridha/asrafmridha/main/banner.png)
 
 # 👋 Hi, I'm Asraf Mridha
 
-### 🚀 Laravel Developer | Backend Specialist
+### 🚀Software Engineer | Laravel Developer | Backend Specialist
 
 💻 I build scalable backend systems and RESTful APIs using Laravel.
 🧠 Strong foundation in Data Structures & Algorithms.
@@ -29,8 +28,8 @@
 * ✅ Knowledge of **Tree, Graph, Recursion, Dynamic Programming**
 * ✅ Practicing **Algorithms (Sorting, Searching, Greedy, BFS, DFS)**
 
-🔗 LeetCode: https://leetcode.com/your-username
-🔗 Codeforces: https://codeforces.com/profile/your-username
+🔗 LeetCode: https://leetcode.com/u/asrafmridha
+🔗 Codeforces: https://codeforces.com/profile/asraf35
 
 ---
 
@@ -43,10 +42,11 @@
 
 ### 🎨 Frontend
 
-* JavaScript
 * HTML
 * CSS
 * Bootstrap
+* JavaScript
+* React
 * jQuery
 * Ajax
 
@@ -64,14 +64,14 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce API (Laravel SaaS)
+### 🛒 E-commerce API 
 
 ✔ Multi-role authentication
 ✔ Product, Category, Order Management
 ✔ Payment Gateway Integration
 ✔ RESTful API with Sanctum
 
-👉 Repo: https://github.com/asrafmridha
+👉 Live Link: https://pacificfoodbd.com/
 
 ---
 
@@ -81,7 +81,6 @@
 ✔ Purchase & Sales system
 ✔ Reports & analytics
 
-👉 Repo: https://github.com/asrafmridha
 
 ---
 
