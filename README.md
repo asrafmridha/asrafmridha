@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 
-![Profile Banner](https://raw.githubusercontent.com/asrafmridha/asrafmridha/main/banner.png)
+
 
 # 👋 Hi, I'm Asraf Mridha
 
