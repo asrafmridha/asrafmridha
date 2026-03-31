@@ -1,9 +1,10 @@
 <!-- 🔥 Banner -->
 
+![Profile Banner](https://raw.githubusercontent.com/asrafmridha/asrafmridha/main/banner.png)
 
 # 👋 Hi, I'm Asraf Mridha
 
-### 🚀Software Engineer | Laravel Developer | Backend Specialist
+### 🚀 Software Engineer | Laravel Developer | Backend Specialist
 
 💻 I build scalable backend systems and RESTful APIs using Laravel.
 🧠 Strong foundation in Data Structures & Algorithms.
@@ -24,9 +25,9 @@
 
 ## 🧠 DSA & Problem Solving
 
-* ✅ Strong understanding of **Arrays, Linked List, Stack, Queue**
-* ✅ Knowledge of **Tree, Graph, Recursion, Dynamic Programming**
-* ✅ Practicing **Algorithms (Sorting, Searching, Greedy, BFS, DFS)**
+* ✅ Arrays, Linked List, Stack, Queue
+* ✅ Tree, Graph, Recursion, Dynamic Programming
+* ✅ Algorithms: Sorting, Searching, Greedy, BFS, DFS
 
 🔗 LeetCode: https://leetcode.com/u/asrafmridha
 🔗 Codeforces: https://codeforces.com/profile/asraf35
@@ -64,14 +65,14 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce API 
+### 🛒 E-commerce API
 
 ✔ Multi-role authentication
 ✔ Product, Category, Order Management
 ✔ Payment Gateway Integration
 ✔ RESTful API with Sanctum
 
-👉 Live Link: https://pacificfoodbd.com/
+👉 Live: https://pacificfoodbd.com/
 
 ---
 
@@ -81,14 +82,17 @@
 ✔ Purchase & Sales system
 ✔ Reports & analytics
 
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafmridha\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafmridha\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafmridha\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrafmridha\&theme=tokyonight\&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asrafmridha\&theme=tokyo-night)
 
 ---
 
@@ -107,7 +111,3 @@
 ---
 
 ⭐ From [Asraf Mridha](https://github.com/asrafmridha)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asrafmridha)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafmridha&show_icons=true)  
