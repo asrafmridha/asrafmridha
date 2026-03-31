@@ -1,35 +1,110 @@
-# Laravel Developer
+<!-- 🔥 Banner -->
 
-![](https://wallpaperaccess.com/full/1567486.jpg)
+![Profile Banner](https://raw.githubusercontent.com/asrafmridha/asrafmridha/main/banner.png)
 
-# Hi there 👋, I'm Asraf Mridha
-#### Laravel Developer
+# 👋 Hi, I'm Asraf Mridha
 
+### 🚀 Laravel Developer | Backend Specialist
 
-I am a student of Laravel Developer. I enjoy working backend with Laravel. And I want to continue working with Laravel
+💻 I build scalable backend systems and RESTful APIs using Laravel.
+🧠 Strong foundation in Data Structures & Algorithms.
+🎯 Focused on clean code, performance, and problem solving.
 
-Skills:  JS / HTML / CSS/Bootstrap/jQuery/Ajax/C/PHP/Laravel
+---
 
-- 🔭 I’m currently working on Basis SEIP 
-- 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Laravel 
+## 🔥 About Me
 
+* 💼 Laravel Developer with **2+ years of experience**
+* 🔭 Working on **real-world projects & SaaS applications**
+* 🌱 Practicing **Data Structures & Algorithms (DSA)** regularly
+* 🧠 Solving problems on **LeetCode & Codeforces**
+* 👯 Open to collaboration on **Laravel & API-based projects**
+* 💬 Ask me about **Laravel, PHP, MySQL, DSA, REST API**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asrafmridha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asraf-mridha-7801ba197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kosto.asraful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asraful_75/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17994875/asraf-mridha)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🧠 DSA & Problem Solving
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asrafmridha)](https://github.com/ryo-ma/github-profile-trophy)
+* ✅ Strong understanding of **Arrays, Linked List, Stack, Queue**
+* ✅ Knowledge of **Tree, Graph, Recursion, Dynamic Programming**
+* ✅ Practicing **Algorithms (Sorting, Searching, Greedy, BFS, DFS)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafmridha)](https://github.com/anuraghazra/github-readme-stats)
+🔗 LeetCode: https://leetcode.com/your-username
+🔗 Codeforces: https://codeforces.com/profile/your-username
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafmridha&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asrafmridha)  
+## 🛠️ Tech Stack
 
-![GitHub metrics](https://metrics.lecoq.io/asrafmridha)  
+### 🚀 Backend
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asrafmridha)  
+* PHP
+* Laravel
 
-![Profile views](https://gpvc.arturio.dev/asrafmridha)  
+### 🎨 Frontend
+
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+* Ajax
+
+### 🗄️ Database
+
+* MySQL
+
+### ⚙️ Tools
+
+* Git & GitHub
+* Postman
+* VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce API (Laravel SaaS)
+
+✔ Multi-role authentication
+✔ Product, Category, Order Management
+✔ Payment Gateway Integration
+✔ RESTful API with Sanctum
+
+👉 Repo: https://github.com/asrafmridha
+
+---
+
+### 📦 Inventory Management System
+
+✔ Stock management
+✔ Purchase & Sales system
+✔ Reports & analytics
+
+👉 Repo: https://github.com/asrafmridha
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafmridha\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafmridha\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+
+* 🔗 GitHub: https://github.com/asrafmridha
+* 💼 LinkedIn: https://www.linkedin.com/in/asraf-mridha-7801ba197/
+* 📘 Facebook: https://www.facebook.com/kosto.asraful
+
+---
+
+## 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+⭐ From [Asraf Mridha](https://github.com/asrafmridha)
